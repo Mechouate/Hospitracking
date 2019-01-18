@@ -18,7 +18,7 @@
               PRIMARY KEY (`id`)
             ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
             
-# in diese Tabelle wird die endgültige Entscheidung gespeichert, d.h wo befinden sich die BLE-Beacons.
+# in diese Tabelle wird die endgueltige Entscheidung gespeichert, d.h wo befinden sich die BLE-Beacons.
             
             DROP TABLE IF EXISTS `decision`;
             CREATE TABLE `decision` (
@@ -39,7 +39,7 @@
               PRIMARY KEY (`id`)
             ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
             
-# in diese Tabelle werden die Mac_adr und IP-adr alle pi's aufgelistet.
+# in diese Tabelle werden die Mac_adr und IP-adr alle pi s aufgelistet.
             
             DROP TABLE IF EXISTS `pi`;
             CREATE TABLE `pi` (
