@@ -102,7 +102,7 @@ AC:23:3F:24:B2:EC	Neu Muenze
 C0:AD:72:70:5B:AB   Alte Beacon Muenze A1
 CC:16:08:85:7F:99   Alte Beacon Muenze B2
 C7:E9:5F:BE:F5:82   Alte Beacon Muenze C3
-C8:2E:E5:77:F2:AB 	Alte Beacon Muenze
+C8:2E:E5:77:F2:AB   Alte Beacon Muenze
 E6:6A:0E:B6:A8:21   Alte Beacon Muenze 
 FC:BB:10:74:CF:70   Alte Beacon Muenze 
 AC:23:3F:24:98:CB	on/off drinnen
@@ -111,8 +111,8 @@ AC:23:3F:24:99:57	on/off drinnen
 AC:23:3F:24:CC:E9 	on/off draussen
 AC:23:3F:24:CC:EF	on/off draussen
 AC:23:3F:24:CC:F1	on/off draussen
-AC:23:3F:24:C8:AD 	Gross Schwarz Beacon
-AC:23:3F:24:A1:D4	Gross Weiss Beacon
+AC:23:3F:24:C8:AD   Gross Schwarz Beacon
+AC:23:3F:24:A1:D4   Gross Weiss Beacon
 AC:23:3F:24:A1:D2   Gross Weiss Beacon
 AC:23:3F:24:A2:0E   Gross Weiss Beacon
 AC:23:3F:24:AF:84	Die Ganz duenne Beacon E8 out

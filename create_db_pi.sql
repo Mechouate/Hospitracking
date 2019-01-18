@@ -22,12 +22,13 @@
             ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
             
 # nach jede 10s werden die gescanten werten von scan1 in diese Tabelle eingepackt, so dass scan2 zu diese Tabelle greift um die werten zu bearbeiten         
+# Raw data is a term used to describe data that has been collected, but has not been processed.
 
             DROP TABLE IF EXISTS `scan`;
             CREATE TABLE `scan` (
               `id` int(225) NOT NULL AUTO_INCREMENT,
               `beacon_mac` varchar(225)  NULL,
               `rssi` TINYINT NOT NULL,
-              `row` TINYINT NOT NULL,
+              `raw` TINYINT NOT NULL,
               PRIMARY KEY (`id`)
             ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
