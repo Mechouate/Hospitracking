@@ -12,10 +12,8 @@ insert into beacon(beacon_mac) VALUES ("AC:23:3F:24:A1:D4");
 insert into beacon(beacon_mac) VALUES ("AC:23:3F:24:AF:84");
 insert into beacon(beacon_mac) VALUES ("AC:23:3F:24:AF:81");
 insert into beacon(beacon_mac) VALUES ("AC:23:3F:24:AF:77");
-insert into beacon(beacon_mac) VALUES ("EC:81:BC:0D:F1:DA");
-insert into beacon(beacon_mac) VALUES ("EC:94:19:54:21:2F");
-insert into beacon(beacon_mac) VALUES ("EC:A5:DE:FB:86:3E");
-insert into beacon(beacon_mac) VALUES ("F5:21:9F:4D:65:99");
+insert into beacon(beacon_mac) VALUES ("AC:23:3F:24:A1:D2");
+insert into beacon(beacon_mac) VALUES ("AC:23:3F:24:A2:0E");
 
 MariaDB [raum]> select * from beacon;
 +----+-------------------+
@@ -36,10 +34,6 @@ MariaDB [raum]> select * from beacon;
 | 13 | AC:23:3F:24:AF:84 |
 | 14 | AC:23:3F:24:AF:81 |
 | 15 | AC:23:3F:24:AF:77 |
-| 16 | EC:81:BC:0D:F1:DA |
-| 17 | EC:94:19:54:21:2F |
-| 18 | EC:A5:DE:FB:86:3E |
-| 19 | F5:21:9F:4D:65:99 |
 +----+-------------------+
 19 rows in set (0.00 sec)
 
@@ -99,11 +93,9 @@ AC:23:3F:24:CC:E9 	on/off draußen
 AC:23:3F:24:CC:EF	on/off draußen
 AC:23:3F:24:CC:F1	on/off draußen
 AC:23:3F:24:C8:AD 	Groß Schwarz Beacon
-AC:23:3F:24:A1:D4	Groß Weiß Beacon 
+AC:23:3F:24:A1:D4	Groß Weiß Beacon
+AC:23:3F:24:A1:D2   Groß Weiß Beacon
+AC:23:3F:24:A2:0E   Groß Weiß Beacon
 AC:23:3F:24:AF:84	Die Ganz dünne Beacon E8 out
 AC:23:3F:24:AF:81 	Die Ganz dünne Beacon E8 alt
 AC:23:3F:24:AF:77 	Die Ganz dünne Beacon E8 neu
-EC:81:BC:0D:F1:DA 	Estimote Blau
-EC:94:19:54:21:2F 	Estimote Lila
-EC:A5:DE:FB:86:3E 	Estimote Grün
-F5:21:9F:4D:65:99 	BLE Watch
