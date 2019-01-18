@@ -1,4 +1,4 @@
-# Create Datenbank in Pi's
+# Create Datenbank in Pi s
 /*
   This file generates a database schema which is used to document the
   information from bluetooth-based trasmitters and receivers.
