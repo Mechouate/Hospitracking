@@ -67,7 +67,7 @@ MariaDB [raum]> select * from pi;
 
 --------------------------------------------------------------------------
 
-pi@Server:~ $ arp -na | grep -i b8:27:eb
+pi@Server: arp -na | grep -i b8:27:eb
 
 ? (192.168.0.119) auf b8:27:eb:72:af:fd [ether] auf eth0
 ? (192.168.0.120) auf b8:27:eb:fe:de:4f [ether] auf eth0
@@ -82,20 +82,20 @@ pi@Server:~ $ arp -na | grep -i b8:27:eb
 
 Vorhandene Beacon	Beschreibung
 
-AC:23:3F:24:B3:1F	Neu ein € Münze
-AC:23:3F:24:B3:18	Neu ein € Münze
-AC:23:3F:24:B2:EC	Neu ein € Münze
-C8:2E:E5:77:F2:AB 	Alt Beacon ein € Münze
+AC:23:3F:24:B3:1F	Neu Muenze
+AC:23:3F:24:B3:18	Neu Muenze
+AC:23:3F:24:B2:EC	Neu Muenze
+C8:2E:E5:77:F2:AB 	Alt Beacon Muenze
 AC:23:3F:24:98:CB	on/off drinnen
 AC:23:3F:24:99:46	on/off drinnen
 AC:23:3F:24:99:57	on/off drinnen
-AC:23:3F:24:CC:E9 	on/off draußen
-AC:23:3F:24:CC:EF	on/off draußen
-AC:23:3F:24:CC:F1	on/off draußen
-AC:23:3F:24:C8:AD 	Groß Schwarz Beacon
-AC:23:3F:24:A1:D4	Groß Weiß Beacon
-AC:23:3F:24:A1:D2   Groß Weiß Beacon
-AC:23:3F:24:A2:0E   Groß Weiß Beacon
-AC:23:3F:24:AF:84	Die Ganz dünne Beacon E8 out
-AC:23:3F:24:AF:81 	Die Ganz dünne Beacon E8 alt
-AC:23:3F:24:AF:77 	Die Ganz dünne Beacon E8 neu
+AC:23:3F:24:CC:E9 	on/off draussen
+AC:23:3F:24:CC:EF	on/off draussen
+AC:23:3F:24:CC:F1	on/off draussen
+AC:23:3F:24:C8:AD 	Gross Schwarz Beacon
+AC:23:3F:24:A1:D4	Gross Weiß Beacon
+AC:23:3F:24:A1:D2   Gross Weiß Beacon
+AC:23:3F:24:A2:0E   Gross Weiß Beacon
+AC:23:3F:24:AF:84	Die Ganz duenne Beacon E8 out
+AC:23:3F:24:AF:81 	Die Ganz duenne Beacon E8 alt
+AC:23:3F:24:AF:77 	Die Ganz duenne Beacon E8 neu
