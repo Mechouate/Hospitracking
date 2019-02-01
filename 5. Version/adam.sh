@@ -21,4 +21,4 @@ rm a.csv
 dat=$(date '+%Y-%m-%d %H:%M:%S')
 echo "------------------------------------ scan ende : $dat---------------------------------------------"
 
-nohup bash adam2.sh $id &
+nohup bash adam2.sh $id

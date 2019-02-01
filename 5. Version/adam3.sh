@@ -4,8 +4,8 @@ id=$1
 dat=$(date '+%Y-%m-%d %H:%M:%S')
 echo "------------------------------------ adam3 $id begin : $dat---------------------------------------------"
 
-n=$(wc -l $id.2.csv)
-c=$(echo $n2 | cut -d" " -f1)
+n=$(wc -l $id.csv)
+c=$(echo $n | cut -d" " -f1)
 
 for ((i=1,j=0; i<=c; i=i+1))
 do
@@ -26,15 +26,17 @@ then
     b_mac=$(echo $a | cut -d"." -f2)
 
     #die wichtigen info zusammen fassen mac der Pi , mac der Beacon , und status
-    final=$pi_mac" "b_mac" "$status > $id.f.csv
+    final=$pi_mac" "$b_mac" "$status > $id.f.csv
 
     # comment
-    scp $id.f.csv pi@server:/home/pi
+    #scp $id.f.csv pi@server:/home/pi
 fi
 
-echo $id
+echo $id" c: "$c" j: "$j" val : "$val" final :"$final
 cat $id.csv
+cat $id.f.csv
 rm $id.csv
+rm $id.f.csv
 
 dat=$(date '+%Y-%m-%d %H:%M:%S')
 echo "------------------------------------ adam3 $id ende : $dat---------------------------------------------"

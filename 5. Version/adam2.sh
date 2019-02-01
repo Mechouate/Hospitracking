@@ -46,7 +46,7 @@ rm $id.1.csv
 #for ((i=1; i<=c2; i=i+1))
 #do
 #mac2=$(sed -n ${i}p $id.2.csv)
-#nohup bash adam3.sh $id.$mac2 &
+#nohup bash adam3.sh $id.$mac2
 #done
 
 for ((i=1; i<=c2; i++)); do mac2=$(sed -n ${i}p $id.2.csv) ; nohup bash adam3.sh $id.$mac2 & done; wait
