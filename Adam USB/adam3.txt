@@ -1,0 +1,147 @@
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      RSSI: -52
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -75
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -88
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -71
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -86
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -83
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -71
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -73
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -71
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      RSSI: -55
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      RSSI: -76
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -60
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -83
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -60
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -82
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      RSSI: -66
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -70
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -85
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -70
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      RSSI: -66
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      RSSI: -67
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -74
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -75
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      RSSI: -74
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -74
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -86
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -82
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -82
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -74
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -70
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      RSSI: -72
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      RSSI: -72
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -84
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -82
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -62
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -82
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -76
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -70
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -62
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -83
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -73
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      RSSI: -50
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -71
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -76
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -72
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -72
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -76
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -72
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -70
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -82
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      RSSI: -59
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -83
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -61
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -70
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -75
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -70
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -61
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -83
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -61
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -78
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -76
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -68
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -62
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -82
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -62
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -70
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -76
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -70
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -62
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -72
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      RSSI: -71
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      RSSI: -72
+      bdaddr 02:FA:35:52:09:C0 (Random)
+      RSSI: -76
+      bd

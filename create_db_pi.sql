@@ -5,30 +5,24 @@
 
   @Author: Adam Mechouate
 */
-# in diese Tabelle werden alle wichtige informationen und signifikante werten der Scan gespeichert.
-
-            DROP TABLE IF EXISTS `information`;
-            CREATE TABLE `information` (
-              `id` int(225) NOT NULL AUTO_INCREMENT,
-              `beacon_mac` varchar(225)  NULL,
-              `most_often_1` varchar(40) DEFAULT NULL,
-              `most_often_2` varchar(40) DEFAULT NULL,
-              `most_often_3` varchar(40) DEFAULT NULL,
-              `average_often` FLOAT NOT NULL,
-              `max` TINYINT NOT NULL,
-              `status` varchar(40) DEFAULT NULL,
-              `pi_mac` varchar(40) DEFAULT NULL,
-              PRIMARY KEY (`id`)
-            ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
             
-# nach jede 10s werden die gescanten werten von scan1 in diese Tabelle eingepackt, so dass scan2 zu diese Tabelle greift um die werten zu bearbeiten         
-# Raw data is a term used to describe data that has been collected, but has not been processed.
-
+# nach X sekunden wird der scan Ergebnis hier gespeichert
             DROP TABLE IF EXISTS `scan`;
             CREATE TABLE `scan` (
               `id` int(225) NOT NULL AUTO_INCREMENT,
               `beacon_mac` varchar(225)  NULL,
-              `rssi` TINYINT NOT NULL,
-              `raw` TINYINT NOT NULL,
+              `pi_mac` varchar(40) DEFAULT NULL,
+              `status` varchar(40) DEFAULT NULL,
+              `scan_id` int NOT NULL,
               PRIMARY KEY (`id`)
             ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+            
+# SQL CREATE TABLE in sqlite3
+
+#sqlite> BEGIN;
+#sqlite> CREATE TABLE dhtreadings(id INTEGER PRIMARY KEY AUTOINCREMENT, temperature NUMERIC, humidity NUMERIC, currentdate DATE, currentime TIME, device TEXT);
+#sqlite> COMMIT;
+
+sqlite> BEGIN;
+sqlite> CREATE TABLE scan (id INTEGER PRIMARY KEY AUTOINCREMENT, beacon_mac TEXT,pi_mac TEXT,status TEXT, scan_id NUMERIC);
+sqlite> COMMIT;

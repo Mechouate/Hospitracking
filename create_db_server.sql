@@ -5,18 +5,6 @@
 
   @Author: Adam Mechouate
 */
-# in diese Tabelle werden alle informationen, die von alle Leser gekommen sind, gesammelt, vergliechen und gefiltert.
-
-            DROP TABLE IF EXISTS `filter`;
-            CREATE TABLE `filter` (
-              `id` int(225) NOT NULL AUTO_INCREMENT,
-              `beacon_mac` varchar(225)  NULL,
-              `average` FLOAT NOT NULL,
-              `max` TINYINT NOT NULL,
-              `status` varchar(40) DEFAULT NULL,
-              `pi_mac` varchar(40) DEFAULT NULL,
-              PRIMARY KEY (`id`)
-            ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
             
 # in diese Tabelle wird die endgueltige Entscheidung gespeichert, d.h wo befinden sich die BLE-Beacons.
             

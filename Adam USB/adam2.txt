@@ -1,0 +1,394 @@
+HCI sniffer - Bluetooth packet analyzer ver 5.43
+device: hci0 snap_len: 1500 filter: 0xffffffff
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -70
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -94
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -83
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      Flags: 0x05
+      Complete service classes: 0x180d
+      Unknown type 0x07 with 16 bytes data
+      RSSI: -72
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -81
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -96
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -70
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -79
+> HCI Event: LE Meta Event (0x3e) plen 41
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      Flags: 0x06
+      Complete service classes: 0x1803 0x1802 0x1804 0xfef5
+      Complete local name: 'Gigaset keeper'
+      RSSI: -71
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      Flags: 0x05
+      Complete service classes: 0x180d
+      Unknown type 0x07 with 16 bytes data
+      RSSI: -70
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -68
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -72
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -79
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      Flags: 0x05
+      Complete service classes: 0x180d
+      Unknown type 0x07 with 16 bytes data
+      RSSI: -63
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -67
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -81
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -93
+> HCI Event: LE Meta Event (0x3e) plen 41
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      Flags: 0x06
+      Complete service classes: 0x1803 0x1802 0x1804 0xfef5
+      Complete local name: 'Gigaset keeper'
+      RSSI: -67
+> HCI Event: LE Meta Event (0x3e) plen 25
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      Unknown type 0xff with 11 bytes data
+      RSSI: -69
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -68
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      Flags: 0x05
+      Complete service classes: 0x180d
+      Unknown type 0x07 with 16 bytes data
+      RSSI: -71
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -80
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -83
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -97
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -82
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -78
+> HCI Event: LE Meta Event (0x3e) plen 41
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      Flags: 0x06
+      Complete service classes: 0x1803 0x1802 0x1804 0xfef5
+      Complete local name: 'Gigaset keeper'
+      RSSI: -72
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -73
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -96
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      Flags: 0x05
+      Complete service classes: 0x180d
+      Unknown type 0x07 with 16 bytes data
+      RSSI: -71
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -71
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -83
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -82
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -96
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -67
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      Flags: 0x05
+      Complete service classes: 0x180d
+      Unknown type 0x07 with 16 bytes data
+      RSSI: -79
+> HCI Event: LE Meta Event (0x3e) plen 30
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      Complete local name: 'W311N_99654D9F21'
+      RSSI: -79
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -82
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -65
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -77
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      Flags: 0x05
+      Complete service classes: 0x180d
+      Unknown type 0x07 with 16 bytes data
+      RSSI: -77
+> HCI Event: LE Meta Event (0x3e) plen 30
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      Complete local name: 'W311N_99654D9F21'
+      RSSI: -77
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -70
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -84
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -82
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -63
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      Flags: 0x05
+      Complete service classes: 0x180d
+      Unknown type 0x07 with 16 bytes data
+      RSSI: -84
+> HCI Event: LE Meta Event (0x3e) plen 30
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      Complete local name: 'W311N_99654D9F21'
+      RSSI: -83
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -89
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -77
+> HCI Event: LE Meta Event (0x3e) plen 41
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr 7C:2F:80:C2:6E:4F (Public)
+      Flags: 0x06
+      Complete service classes: 0x1803 0x1802 0x1804 0xfef5
+      Complete local name: 'Gigaset keeper'
+      RSSI: -71
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -77
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -66
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -81
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -68
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -71
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -78
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -78
+> HCI Event: LE Meta Event (0x3e) plen 43
+    LE Advertising Report
+      ADV_NONCONN_IND - Non connectable undirected advertising (3)
+      bdaddr 26:C6:B9:07:BB:3A (Random)
+      Unknown type 0xff with 29 bytes data
+      RSSI: -71
+> HCI Event: LE Meta Event (0x3e) plen 37
+    LE Advertising Report
+      ADV_IND - Connectable undirected advertising (0)
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      Flags: 0x05
+      Complete service classes: 0x180d
+      Unknown type 0x07 with 16 bytes data
+      RSSI: -77
+> HCI Event: LE Meta Event (0x3e) plen 30
+    LE Advertising Report
+      SCAN_RSP - Scan Response (4)
+      bdaddr F5:21:9F:4D:65:99 (Random)
+      Complete local name: 'W311N_99654D9F21'
+      RSSI: -77
