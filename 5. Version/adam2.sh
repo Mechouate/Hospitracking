@@ -51,7 +51,7 @@ else
     #mac2=$(sed -n ${i}p $id.2.csv)
     #nohup bash adam3.sh $id.$mac2
     #done
-    for ((i=1; i<=c2; i++)); do mac2=$(sed -n ${i}p $id.2.csv) ; nohup bash adam3.sh $id.$mac2 & done; wait
+    for ((i=1; i<=c2; i++)); do mac2=$(sed -n ${i}p $id.2.csv) ; bash adam3.sh $id.$mac2 & done; wait
     rm $id.2.csv
 
 fi

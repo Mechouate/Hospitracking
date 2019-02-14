@@ -21,4 +21,7 @@ rm a.csv
 dat=$(date '+%Y-%m-%d %H:%M:%S')
 echo "------------------------------------ scan ende : $dat---------------------------------------------"
 
-if [ -s $id.csv ] ;  then nohup bash adam2.sh $id ; else echo " es gibt kein Beacon in der Nähe ! " ; fi
+if [ -s $id.csv ] ;  then bash adam2.sh $id & ; else echo " es gibt kein Beacon in der Nähe ! " ; fi
+
+# recursive Programme ruft sich nochmal !
+sh adam.sh &
