@@ -47,14 +47,19 @@ then
     var=$(grep -R "$mac_max" "mac.csv")
     if [ "$var" ]
     then
-        echo "dieser Beacon ist schon bekannt, er gehoert schon zu deine Liste !"
+        ada=$(echo "Dieser_Beacon_ist_schon_bekannt_!")
+        echo $ada
     else
-        echo " die Mac Adresse der neuen Beacon ist : $mac_max "
-        echo $mac_max >> mac.csv
+        ada=$(echo "Die_Mac_Adresse_der_neuen_Beacon_ist_:_$mac_max")
+        echo $ada
+        #echo $mac_max >> mac.csv
     fi
 else
-    echo "Es wurde kein Beacon erkannt, machen sie bitte der Beacon an dann scannen Sie nochmal !  "
+    ada=$(echo "Es_wurde_kein_Beacon_erkannt,_scannen_Sie_bitte_nochmal_!")
+    echo $ada
 fi
 rm d.csv
-echo "alle bekannten Mac Adressen sind : "
-cat mac.csv
+#echo "alle bekannten Mac Adressen sind : "
+#cat mac.csv
+
+#ssh pi@server "bash server_neu_beacon_resp.sh"
